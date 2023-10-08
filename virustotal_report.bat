@@ -101,7 +101,7 @@ blockquote.undetected { display: none; }
 <area id='MaxSecure' href='mailto:tech@maxpcsecure.com?subject=False%20Positive%20Report'>
 <area id='McAfee' href='https://kc.mcafee.com/corporate/index?page=content&id=KB85567'>
 <area id='McAfee' href='mailto:virus_research@avertlabs.com?subject=False%20Positive%20Report'>
-<area id='McAfee' href='mailto:datasubmission@mcafee.com?subject=False%20Positive%20Report'>
+<area id='McAfee-GW-Edition' href='mailto:datasubmission@mcafee.com?subject=False%20Positive%20Report'>
 <area id='Microsoft' href='https://www.microsoft.com/en-us/wdsi/filesubmission'>
 <area id='MicroWorld-eScan' href='mailto:samples@escanav.com?subject=False%20Positive%20Report'>
 <area id='MicroWorld-eScan' href='http://support.mwti.net/support/index.php?/Tickets/Submit/'>
